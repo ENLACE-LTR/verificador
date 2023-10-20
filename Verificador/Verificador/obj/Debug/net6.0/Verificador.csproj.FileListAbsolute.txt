@@ -1,0 +1,15 @@
+C:\Users\Clases\source\repos\Verificador\Verificador\bin\Debug\net6.0\Verificador.exe
+C:\Users\Clases\source\repos\Verificador\Verificador\bin\Debug\net6.0\Verificador.deps.json
+C:\Users\Clases\source\repos\Verificador\Verificador\bin\Debug\net6.0\Verificador.runtimeconfig.json
+C:\Users\Clases\source\repos\Verificador\Verificador\bin\Debug\net6.0\Verificador.dll
+C:\Users\Clases\source\repos\Verificador\Verificador\bin\Debug\net6.0\Verificador.pdb
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.csproj.AssemblyReference.cache
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.AssemblyInfoInputs.cache
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.AssemblyInfo.cs
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.csproj.CoreCompileInputs.cache
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.dll
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\refint\Verificador.dll
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.pdb
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\Verificador.genruntimeconfig.cache
+C:\Users\Clases\source\repos\Verificador\Verificador\obj\Debug\net6.0\ref\Verificador.dll
